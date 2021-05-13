@@ -16,7 +16,7 @@ public class WorldLottery {
 	panel.add(label);
 
 
-	JButton button = new JButton("new Branch");
+	JButton button = new JButton("new Branch time ten");
 
 	panel.add(button);
 
