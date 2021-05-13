@@ -15,13 +15,20 @@ public class WorldLottery {
 	frame.add(panel);
 	panel.add(label);
 
+<<<<<<< HEAD
 
-	JButton button = new JButton("newerrrrrBranch");
+	JButton button = new JButton("new Branch time ten");
 
 	panel.add(button);
 
 
 
+=======
+
+	JButton button = new JButton("new Branch time ten");
+
+	panel.add(button);
+>>>>>>> newBranch
 
 
 }
