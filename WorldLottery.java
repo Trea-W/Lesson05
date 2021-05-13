@@ -9,6 +9,18 @@ public class WorldLottery {
 	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 
+
+	JLabel label = new JLabel("hello");
+	JPanel panel = new JPanel();
+	frame.add(panel);
+	panel.add(label);
+
+
+	JButton button = new JButton("hello again");
+
+	panel.add(button);
+
+
 }
 
 }
