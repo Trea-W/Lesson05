@@ -16,9 +16,12 @@ public class WorldLottery {
 	panel.add(label);
 
 
-	JButton button = new JButton("hello again");
+	JButton button = new JButton("newerrrrrBranch");
 
 	panel.add(button);
+
+
+
 
 
 }
